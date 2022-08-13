@@ -1,0 +1,12 @@
+
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body{
+    background-color: black;
+  }
+  .btn{
+    font-family: 'kalam';
+    align-self: center;
+  }
